@@ -1,5 +1,5 @@
 //* LOcalStorage
-localStorage.setItem('name', 'Resul')  //*Even though we delete this it will stay in the local storage
+localStorage.setItem('name', 'Resul')  
 //*console.log(localStorage.getItem('name'))
 //localStorage.removeItem("name")
 
