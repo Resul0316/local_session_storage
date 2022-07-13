@@ -6,6 +6,9 @@
 //localStorage.setItem(key, JSON.stringify(myObj));
 //To read and return stringified values, use the JSON.parse() method. The JSON.parse() method takes JSON strings and converts them into JavaScript objects. JSON.parse() takes .getItem() as it’s argument:
 //let item = JSON.parse(localStorage.getItem(key));
+//You can test for localStorage support by checking if it’s available on the window object using an if statement:
+//if (window.localStorage) {
+  // localStorage supported }
 
 
 localStorage.setItem('name', 'Resul')  
