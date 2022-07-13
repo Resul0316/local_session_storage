@@ -1,4 +1,7 @@
 //* LOcalStorage
+// https://www.digitalocean.com/community/tutorials/js-introduction-localstorage-sessionstorage
+//You can create entries for the localStorage object by using the setItem() method. The setItem() method takes two arguments, the key and corresponding value:
+
 localStorage.setItem('name', 'Resul')  
 //*console.log(localStorage.getItem('name'))
 //localStorage.removeItem("name")
